@@ -6,3 +6,6 @@ hello,git
 hello,git
 hello,git 3333333333333333333333333333333333
 test ssh wwwwwwwwwwwwwww
+public static void main(String[] args){
+	system.out.printl("hello world")
+	}
